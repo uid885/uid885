@@ -8,7 +8,8 @@ and focused on RedHat/Rocky/CentOS<br>
 
 ## 💻 List of Tools - RedHat/Rocky/CentOS:
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
-• [adduser](https://github.com/uid885/adduser/blob/main/adduser.sh): Utility to add username, password, shell & home directory
+• [adduser](https://github.com/uid885/adduser/blob/main/adduser.sh): Utility to add username, password, shell & home directory <br>
+• [siteavail](https://github.com/uid885/siteavail/blob/main/siteavail.sh): Utility to ping from a list and if nodes are down notify via email using sendmail
 
 ## 💻 List of Tools - Windows 10/11:
 • 
