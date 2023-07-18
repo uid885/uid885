@@ -12,5 +12,11 @@ Free Range Human who dont know how to code, im winging it as I go along. Studyin
 ## 💻 List of Security Tools - RedHat/Rocky/CentOS:
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
 
-## 💻 List of Tools - Windows 10/11:
+## 💻 List of Misc Tools - Windows 10/11:
+
+## 💻 List of Security Tools - Windows 10/11:
 • [cmdelevate](https://github.com/uid885/cmdelevate/blob/main/cmdelevate.bat): Utility to elevate normal user CMD to Administrator <br>
+
+## 💻 List of Ansible Playbooks - 
+
+## 💻 List: How to walkthroughs - 
