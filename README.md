@@ -11,6 +11,7 @@ Free Range Human who dont know how to code, im winging it as I go along. Studyin
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
 
 ## 💻 List of Misc Tools - Windows 10/11:
+• [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key
 
 ## 💻 List of Security Tools - Windows 10/11:
 • [cmdelevate](https://github.com/uid885/cmdelevate/blob/main/cmdelevate.bat): Utility to elevate normal user CMD to Administrator <br>
