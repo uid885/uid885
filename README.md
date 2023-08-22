@@ -11,6 +11,7 @@ Free Range Human who dont know how to code, im winging it as I go along. Studyin
 
 ## 💻 List of Security Tools - RedHat/Rocky/CentOS:
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
+• [rhel9_errata](https://github.com/uid885/rhel9_errata/blob/main/rhel9_errata.sh): Utility to Inspect & Mitigate Errata Advisories
 
 ## 💻 List of Misc Tools - Windows 10/11:
 • [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key
