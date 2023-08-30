@@ -1,5 +1,5 @@
 ## 💫 Who is UID885:
-Free Range Human who dont know how to code, im winging it as I go along. Studying RHCSA9 and BASH, so for now, all my stuff here will be shell related and focused on RedHat/Rocky/CentOS<br>
+Studying RHCSA9 and BASH, so for now, all my stuff here will be shell related and focused on RedHat/Rocky/CentOS<br>
 
 ## 💻 List of Misc Tools - RedHat/Rocky/CentOS:
 • [adduser](https://github.com/uid885/adduser/blob/main/adduser.sh): Utility to add username, password, shell & home directory <br>
