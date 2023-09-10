@@ -30,14 +30,13 @@ hobbies:
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
 • [rhel9_errata](https://github.com/uid885/rhel9_errata/blob/main/rhel9_errata.sh): Utility to Inspect & Mitigate Errata Advisories <br>
 • [rhel9_rkhunter](https://github.com/uid885/rhel9_rkhunter/blob/main/rhel9_rkhunter.sh): Utility to scan for RHEL 9 for Malware Root Kits using RKHUNTER & email results via mail
-
-
+* * * * *
 ### 💻 List of Misc Tools - Windows 10/11:
 • [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key
 
 ### 💻 List of Security Tools - Windows 10/11:
 • [cmdelevate](https://github.com/uid885/cmdelevate/blob/main/cmdelevate.bat): Utility to elevate normal user CMD to Administrator <br>
-
+* * * * *
 ### 💻 List of Ansible Playbooks - 
 • [rhel9_cgroupsv2](https://github.com/uid885/rhel9_cgroupsv2/blob/main/rhel9_cgroupsv2.yml): Ansible Playbook to setup & config Control Groups V2
 
