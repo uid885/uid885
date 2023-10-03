@@ -32,7 +32,8 @@ hobbies:
 • [rhel9_rkhunter](https://github.com/uid885/rhel9_rkhunter/blob/main/rhel9_rkhunter.sh): Utility to scan for RHEL 9 for Malware Root Kits using RKHUNTER & email results via mail <br>
 • [rhel9_vulnerascan](https://github.com/uid885/rhel9_vulnerascan/blob/main/rhel9_vulnerascan.sh): Utility to scan for RHEL 9 vulnerabilities and report using OSCAP <br>
 • [rhel9_aide](https://github.com/uid885/rhel9_aide/blob/main/rhel9_aide.sh): Utility to Install/Scan & Update Host Based IDS Advanced Intrusion Detection Environment <br>
-• [rhel9_virustotal](https://github.com/uid885/rhel9_virustotal/blob/main/rhel9_virustotal.sh): Utility to integrate VirusTotal API & scan specific directory on RHEL 9
+• [rhel9_virustotal](https://github.com/uid885/rhel9_virustotal/blob/main/rhel9_virustotal.sh): Utility to integrate VirusTotal API & scan specific directory on RHEL 9 <br>
+• [rhel9_usbguard](https://github.com/uid885/rhel9_usbguard/blob/main/rhel9_usbguard.sh): Utility to setup/list/decide USBGuard on RHEL 9
 * * * * *
 ### 💻 List of Misc Tools - Windows 10/11:
 • [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key
