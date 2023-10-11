@@ -24,7 +24,8 @@ hobbies:
 • [FindMyIP](https://github.com/uid885/FindMyIP/blob/main/FindMyIP.sh): Utility to scan connected devices & list internal & external IP Addresses <br>
 • [networkinfo](https://github.com/uid885/networkinfo/blob/main/networkinfo.sh): Utility to list Active Network Information <br>
 • [networkdiscovery](https://github.com/uid885/networkdiscovery/blob/main/networkdiscovery.sh): Utility to network discover active nodes by way of ping sweep the network range <br>
-• [diskusage](https://github.com/uid885/diskusage/blob/main/diskusage.sh): Utility to review Disk Space Avail & Usage Locations
+• [diskusage](https://github.com/uid885/diskusage/blob/main/diskusage.sh): Utility to review Disk Space Avail & Usage Locations <br>
+• [kernelreviewer](https://github.com/uid885/kernelreviewer/blob/main/kernelreviewer.sh): Utility to Review current Kernels with options to make default Kernel or delete old Kernel
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS:
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
