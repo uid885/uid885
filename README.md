@@ -44,9 +44,10 @@ hobbies:
 * * * * *
 ### 💻 List of Ansible Playbooks:
 • [rhel9_cgroupsv2](https://github.com/uid885/rhel9_cgroupsv2/blob/main/rhel9_cgroupsv2.yml): Ansible Playbook to setup & config Control Groups V2
-
+* * * * *
 ### 💻 List: How to walkthroughs:
-• [BIND 9](https://github.com/uid885/Setup-Bind9/blob/main/Bind9.md): Setup & Configure BIND9 DNS on RHEL 9 server & configure RHEL 9 clients
+• [BIND 9](https://github.com/uid885/Setup-Bind9/blob/main/Bind9.md): Setup & Configure BIND9 DNS on RHEL 9 server & configure RHEL 9 clients <br>
+• [Squid Proxy](https://github.com/uid885/SquidProxy/blob/main/squid.md): Setup Squid Proxy on RHEL 9 & configure with basic username/password authentication
 * * * * *
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid885&layout=compact)
 <a href="https://wigle.net">
