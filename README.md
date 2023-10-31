@@ -25,7 +25,8 @@ hobbies:
 • [networkinfo](https://github.com/uid885/networkinfo/blob/main/networkinfo.sh): Utility to list Active Network Information <br>
 • [networkdiscovery](https://github.com/uid885/networkdiscovery/blob/main/networkdiscovery.sh): Utility to network discover active nodes by way of ping sweep the network range <br>
 • [diskusage](https://github.com/uid885/diskusage/blob/main/diskusage.sh): Utility to review Disk Space Avail & Usage Locations <br>
-• [kernelreviewer](https://github.com/uid885/kernelreviewer/blob/main/kernelreviewer.sh): Utility to Review current Kernels with options to make default Kernel or delete old Kernel
+• [kernelreviewer](https://github.com/uid885/kernelreviewer/blob/main/kernelreviewer.sh): Utility to Review current Kernels with options to make default Kernel or delete old Kernel <br>
+• [kernelrecompile](https://github.com/uid885/kernelrecompile/blob/main/kernelrecompile.sh): Utility to recompile the kernel
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS:
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
@@ -48,6 +49,8 @@ hobbies:
 ### 💻 List: How to walkthroughs:
 • [BIND 9](https://github.com/uid885/Setup-Bind9/blob/main/Bind9.md): Setup & Configure BIND9 DNS on RHEL 9 server & configure RHEL 9 clients <br>
 • [Squid Proxy](https://github.com/uid885/SquidProxy/blob/main/squid.md): Setup Squid Proxy on RHEL 9 & configure with basic username/password authentication
+* * * * *
+### 💻 My HomeLab Environment
 * * * * *
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid885&layout=compact)
 <a href="https://wigle.net">
