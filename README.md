@@ -51,7 +51,7 @@ hobbies:
 • [Squid Proxy](https://github.com/uid885/SquidProxy/blob/main/squid.md): Setup Squid Proxy on RHEL 9 & configure with basic username/password authentication
 * * * * *
 ### 💻 My HomeLab Environment
-• novnet: Home Lab environment running on a Lenovo Y540-17IRH using XCP-NG as the HyperVisor
+• [novnet](https://github.com/uid885/novnet/blob/main/novnet.md): Home Lab environment running on a Lenovo Y540-17IRH using XCP-NG as the HyperVisor
 * * * * *
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid885&layout=compact)
 <a href="https://wigle.net">
