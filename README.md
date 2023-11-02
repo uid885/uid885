@@ -18,7 +18,7 @@ hobbies:
     "Playing with Tech in HomeLab"
   ]
 ```
-### 💻 List of Misc Tools - RedHat/Rocky/CentOS:
+### 💻 List of Misc Tools - RedHat/Rocky/CentOS
 • [adduser](https://github.com/uid885/adduser/blob/main/adduser.sh): Utility to add username, password, shell & home directory <br>
 • [siteavail](https://github.com/uid885/siteavail/blob/main/siteavail.sh): Utility to ping from a list and if nodes are down notify via email using sendmail <br>
 • [FindMyIP](https://github.com/uid885/FindMyIP/blob/main/FindMyIP.sh): Utility to scan connected devices & list internal & external IP Addresses <br>
@@ -28,7 +28,7 @@ hobbies:
 • [kernelreviewer](https://github.com/uid885/kernelreviewer/blob/main/kernelreviewer.sh): Utility to Review current Kernels with options to make default Kernel or delete old Kernel <br>
 • [kernelrecompile](https://github.com/uid885/kernelrecompile/blob/main/kernelrecompile.sh): Utility to recompile the kernel
 
-### 💻 List of Security Tools - RedHat/Rocky/CentOS:
+### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
 • [rhel9_errata](https://github.com/uid885/rhel9_errata/blob/main/rhel9_errata.sh): Utility to Inspect & Mitigate Errata Advisories <br>
 • [rhel9_rkhunter](https://github.com/uid885/rhel9_rkhunter/blob/main/rhel9_rkhunter.sh): Utility to scan for RHEL 9 for Malware Root Kits using RKHUNTER & email results via mail <br>
@@ -37,20 +37,21 @@ hobbies:
 • [rhel9_virustotal](https://github.com/uid885/rhel9_virustotal/blob/main/rhel9_virustotal.sh): Utility to integrate VirusTotal API & scan specific directory on RHEL 9 <br>
 • [rhel9_usbguard](https://github.com/uid885/rhel9_usbguard/blob/main/rhel9_usbguard.sh): Utility to setup/list/decide USBGuard on RHEL 9
 * * * * *
-### 💻 List of Misc Tools - Windows 10/11:
+### 💻 List of Misc Tools - Windows 10/11
 • [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key
 
-### 💻 List of Security Tools - Windows 10/11:
+### 💻 List of Security Tools - Windows 10/11
 • [cmdelevate](https://github.com/uid885/cmdelevate/blob/main/cmdelevate.bat): Utility to elevate normal user CMD to Administrator <br>
 * * * * *
-### 💻 List of Ansible Playbooks:
+### 💻 List of Ansible Playbooks
 • [rhel9_cgroupsv2](https://github.com/uid885/rhel9_cgroupsv2/blob/main/rhel9_cgroupsv2.yml): Ansible Playbook to setup & config Control Groups V2
 * * * * *
-### 💻 List: How to walkthroughs:
+### 💻 List: How to walkthroughs
 • [BIND 9](https://github.com/uid885/Setup-Bind9/blob/main/Bind9.md): Setup & Configure BIND9 DNS on RHEL 9 server & configure RHEL 9 clients <br>
 • [Squid Proxy](https://github.com/uid885/SquidProxy/blob/main/squid.md): Setup Squid Proxy on RHEL 9 & configure with basic username/password authentication
 * * * * *
 ### 💻 My HomeLab Environment
+• novnet: Home Lab environment running on a Lenovo Y540-17IRH using XCP-NG as the HyperVisor
 * * * * *
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid885&layout=compact)
 <a href="https://wigle.net">
