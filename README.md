@@ -26,7 +26,7 @@ hobbies:
 • [networkdiscovery](https://github.com/uid885/networkdiscovery/blob/main/networkdiscovery.sh): Utility to network discover active nodes by way of ping sweep the network range <br>
 • [diskusage](https://github.com/uid885/diskusage/blob/main/diskusage.sh): Utility to review Disk Space Avail & Usage Locations <br>
 • [kernelreviewer](https://github.com/uid885/kernelreviewer/blob/main/kernelreviewer.sh): Utility to Review current Kernels with options to make default Kernel or delete old Kernel <br>
-• [kernelrecompile](https://github.com/uid885/kernelrecompile/blob/main/kernelrecompile.sh): Utility to recompile the kernel
+• [kernelrecompile](https://github.com/uid885/kernelrecompile/blob/main/kernelrecompile.sh): Utility to recompile the Kernel
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
@@ -48,7 +48,8 @@ hobbies:
 * * * * *
 ### 💻 List: How to walkthroughs
 • [BIND 9](https://github.com/uid885/Setup-Bind9/blob/main/Bind9.md): Setup & Configure BIND9 DNS on RHEL 9 server & configure RHEL 9 clients <br>
-• [Squid Proxy](https://github.com/uid885/SquidProxy/blob/main/squid.md): Setup Squid Proxy on RHEL 9 & configure with basic username/password authentication
+• [Squid Proxy](https://github.com/uid885/SquidProxy/blob/main/squid.md): Setup Squid Proxy on RHEL 9 & configure with basic username/password authentication <br>
+• [NFS Shares](https://github.com/uid885/NFS_shares/blob/main/NFS_shares.md): Setup NFS shares on RHEL 9 & configure Windows10/11 Clients to access <br>
 * * * * *
 ### 💻 My HomeLab Environment
 • [novnet](https://github.com/uid885/novnet/blob/main/novnet.md): Home Lab environment running on a Lenovo Y540-17IRH using XCP-NG as the HyperVisor
