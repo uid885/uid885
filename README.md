@@ -26,7 +26,8 @@ hobbies:
 • [networkdiscovery](https://github.com/uid885/networkdiscovery/blob/main/networkdiscovery.sh): Utility to network discover active nodes by way of ping sweep the network range <br>
 • [diskusage](https://github.com/uid885/diskusage/blob/main/diskusage.sh): Utility to review Disk Space Avail & Usage Locations <br>
 • [kernelreviewer](https://github.com/uid885/kernelreviewer/blob/main/kernelreviewer.sh): Utility to Review current Kernels with options to make default Kernel or delete old Kernel <br>
-• [kernelrecompile](https://github.com/uid885/kernelrecompile/blob/main/kernelrecompile.sh): Utility to recompile the Kernel
+• [kernelrecompile](https://github.com/uid885/kernelrecompile/blob/main/kernelrecompile.sh): Utility to recompile the Kernel <br>
+• [WifiScan-Connect](https://github.com/uid885/WifiScan-Connect/blob/main/WifiScan-Connect.sh): Utility to Scan Wifi from terminal & Connect <br>
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
