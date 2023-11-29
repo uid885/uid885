@@ -38,6 +38,7 @@ hobbies:
 • [rhel9_virustotal](https://github.com/uid885/rhel9_virustotal/blob/main/rhel9_virustotal.sh): Utility to integrate VirusTotal API & scan specific directory on RHEL 9 <br>
 • [rhel9_usbguard](https://github.com/uid885/rhel9_usbguard/blob/main/rhel9_usbguard.sh): Utility to setup/list/decide USBGuard on RHEL 9 <br>
 • [podman_clamav](https://github.com/uid885/podman_clamav/blob/main/podman_clamav.sh): Utility to Scan system for viruses with CLAMAV from within a container using podman <br>
+• [rhel9_sslcert](https://github.com/uid885/rhel9_sslcert/blob/main/rhel9_sslcert.sh): Utility to setup a self-signed certificate for SSL in RHEL 9 <br>
 * * * * *
 ### 💻 List of Misc Tools - Windows 10/11
 • [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key
