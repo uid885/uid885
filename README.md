@@ -29,6 +29,7 @@ hobbies:
 • [kernelrecompile](https://github.com/uid885/kernelrecompile/blob/main/kernelrecompile.sh): Utility to recompile the Kernel <br>
 • [WifiScan-Connect](https://github.com/uid885/WifiScan-Connect/blob/main/WifiScan-Connect.sh): Utility to Scan Wifi from terminal & Connect <br>
 • [sshfs_remote](https://github.com/uid885/sshfs_remote/blob/main/sshfs_remote.sh): Utility to interactively mount remote file systems over SSH using sshfs <br>
+• [log_analysis](https://github.com/uid885/log_analysis/blob/main/log_analysis.sh): Utility to parse & analyse log files & extract <br>
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
