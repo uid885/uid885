@@ -46,7 +46,8 @@ hobbies:
 • [rhel9_sslcert](https://github.com/uid885/rhel9_sslcert/blob/main/rhel9_sslcert.sh): Utility to setup a self-signed certificate for SSL in RHEL 9 <br>
 * * * * *
 ### 💻 List of Misc Tools - Windows 10/11
-• [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key
+• [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key <br>
+• [winrestore](https://github.com/uid885/winrestore/blob/main/winrestore.ps1): Utility to verify & roll back to the last restore point <br>
 
 ### 💻 List of Security Tools - Windows 10/11
 • [cmdelevate](https://github.com/uid885/cmdelevate/blob/main/cmdelevate.bat): Utility to elevate normal user CMD to Administrator <br>
