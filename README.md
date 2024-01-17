@@ -63,7 +63,7 @@ hobbies:
 ### 💻 My HomeLab Environment
 • [novnet](https://github.com/uid885/novnet/blob/main/novnet.md): Home Lab environment running on a Lenovo Y540-17IRH using XCP-NG as the HyperVisor
 * * * * *
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid885&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uid885)](https://github.com/anuraghazra/github-readme-stats) <br>
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/PRKw7JjzLNBm+3oDkWsfzQ.png">
 </a>
