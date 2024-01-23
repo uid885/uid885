@@ -33,6 +33,7 @@ hobbies:
 • [LogsRetention](https://github.com/uid885/LogsRetention/blob/main/LogsRetention.sh): Utility to Archive logs older than 3months <br>
 • [Wifi_password](https://github.com/uid885/Wifi_password/blob/main/Wifi_password.sh): Utility to retrieve WiFi password from system <br>
 • [cockpit_serveradd](https://github.com/uid885/cockpit_serversadd/blob/main/cockpit_serveradd.sh): Utility to add multiple servers to Cockpit<br>
+• [NFS_share_setup](https://github.com/uid885/NFS_share/blob/main/NFS_share_setup.sh): Utility to setup NFS server with anon access to share <br>
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
