@@ -54,7 +54,8 @@ hobbies:
 • [cmdelevate](https://github.com/uid885/cmdelevate/blob/main/cmdelevate.bat): Utility to elevate normal user CMD to Administrator <br>
 * * * * *
 ### 💻 List of Ansible Playbooks
-• [rhel9_cgroupsv2](https://github.com/uid885/rhel9_cgroupsv2/blob/main/rhel9_cgroupsv2.yml): Ansible Playbook to setup & config Control Groups V2
+• [rhel9_cgroupsv2](https://github.com/uid885/rhel9_cgroupsv2/blob/main/rhel9_cgroupsv2.yml): Ansible Playbook to setup & config Control Groups V2 <br>
+• [rhel9_harden](https://github.com/uid885/rhel9_harden/tree/main): Ansible Playbook to harden RHEL 9 server (Playbook & sysctl.conf.j2) <br>
 * * * * *
 ### 💻 List: How to walkthroughs
 • [BIND 9](https://github.com/uid885/Setup-Bind9/blob/main/Bind9.md): Setup & Configure BIND9 DNS on RHEL 9 server & configure RHEL 9 clients <br>
