@@ -49,6 +49,7 @@ hobbies:
 ### 💻 List of Misc Tools - Windows 10/11
 • [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key <br>
 • [winrestore](https://github.com/uid885/winrestore/blob/main/winrestore.ps1): Utility to verify & roll back to the last restore point <br>
+• [WinUpdateBlock](https://github.com/uid885/WinUpdateBlock/blob/main/WinUpdateBlock.ps1): Utility to block Windows Updates <br>
 
 ### 💻 List of Security Tools - Windows 10/11
 • [cmdelevate](https://github.com/uid885/cmdelevate/blob/main/cmdelevate.bat): Utility to elevate normal user CMD to Administrator <br>
