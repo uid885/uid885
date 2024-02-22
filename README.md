@@ -63,6 +63,7 @@ hobbies:
 • [BIND 9](https://github.com/uid885/Setup-Bind9/blob/main/Bind9.md): Setup & Configure BIND9 DNS on RHEL 9 server & configure RHEL 9 clients <br>
 • [Squid Proxy](https://github.com/uid885/SquidProxy/blob/main/squid.md): Setup Squid Proxy on RHEL 9 & configure with basic username/password authentication <br>
 • [NFS Shares](https://github.com/uid885/NFS_shares/blob/main/NFS_shares.md): Setup NFS shares on RHEL 9 & configure Windows10/11 Clients to access <br>
+• [FreeIPA Setup](https://github.com/uid885/FreeIPA-Server-Setup/blob/main/FreeIPA.md): Setup FreeIPA Server on RHEL 9 & configure RHEL clients <br>
 * * * * *
 ### 💻 My HomeLab Environment
 • [novnet](https://github.com/uid885/novnet/blob/main/novnet.md): Home Lab environment running on a Lenovo Y540-17IRH using XCP-NG as the HyperVisor
