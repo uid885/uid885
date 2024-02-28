@@ -35,6 +35,7 @@ hobbies:
 • [cockpit_serveradd](https://github.com/uid885/cockpit_serversadd/blob/main/cockpit_serveradd.sh): Utility to add multiple servers to Cockpit<br>
 • [NFS_share_setup](https://github.com/uid885/NFS_share/blob/main/NFS_share_setup.sh): Utility to setup NFS server with anon access to share <br>
 • [tomcat_nginx_reverseproxy](https://github.com/uid885/tomcat_nginx_reverseproxy/blob/main/tomcat_nginx_reverseproxy.sh): Utility to setup Apache & Nginx as reverse proxy <br>
+• [networktest](https://github.com/uid885/networktest/blob/main/networktest.sh): Utility to test Internet & Network Speed <br>
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
