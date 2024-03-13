@@ -37,6 +37,7 @@ hobbies:
 • [tomcat_nginx_reverseproxy](https://github.com/uid885/tomcat_nginx_reverseproxy/blob/main/tomcat_nginx_reverseproxy.sh): Utility to setup Apache & Nginx as reverse proxy <br>
 • [networktest](https://github.com/uid885/networktest/blob/main/networktest.sh): Utility to test Internet & Network Speed <br>
 • [rhel9_subscription-manager](https://github.com/uid885/rhel9_subscription-manager/blob/main/rhel9_subscription-manager.sh): Utility to Register System & assign Role, SLA & Usage <br>
+• [proxychanger](https://github.com/uid885/proxychanger/blob/main/proxychanger.sh): Utility to set up proxy configuration on RHEL 9 servers ><br>
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
