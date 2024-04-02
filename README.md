@@ -38,7 +38,8 @@ hobbies:
 • [networktest](https://github.com/uid885/networktest/blob/main/networktest.sh): Utility to test Internet & Network Speed <br>
 • [rhel9_subscription-manager](https://github.com/uid885/rhel9_subscription-manager/blob/main/rhel9_subscription-manager.sh): Utility to Register System & assign Role, SLA & Usage <br>
 • [proxychanger](https://github.com/uid885/proxychanger/blob/main/proxychanger.sh): Utility to set up proxy configuration on RHEL 9 servers ><br>
-• [serve_nodejs](https://github.com/uid885/serve_nodejs/blob/main/serve_nodejs.sh): Utility to SERVE directory on a port, accessable via browser
+• [serve_nodejs](https://github.com/uid885/serve_nodejs/blob/main/serve_nodejs.sh): Utility to SERVE directory on a port, accessable via browser <br>
+• [chrony_ntpsetup](https://github.com/uid885/chrony_ntpsetup/blob/main/chrony_ntpsetup.sh): Utility to setup Chrony as NTP server
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
