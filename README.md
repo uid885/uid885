@@ -41,6 +41,7 @@ hobbies:
 • [serve_nodejs](https://github.com/uid885/serve_nodejs/blob/main/serve_nodejs.sh): Utility to SERVE directory on a port, accessable via browser <br>
 • [chrony_ntpsetup](https://github.com/uid885/chrony_ntpsetup/blob/main/chrony_ntpsetup.sh): Utility to setup Chrony as NTP server <br>
 • [chrony_ntp_clientside](https://github.com/uid885/chrony_ntp_clientside/blob/main/chrony_ntp_clientside.sh): Utility to setup NTP server on client side <br>
+• [redhat_reposerver_setup](https://github.com/uid885/redhat_reposerver_setup/blob/main/redhat_reposerver_setup.sh): Utility to setup & configure repository server <br>
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
