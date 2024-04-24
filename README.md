@@ -42,6 +42,7 @@ hobbies:
 • [chrony_ntpsetup](https://github.com/uid885/chrony_ntpsetup/blob/main/chrony_ntpsetup.sh): Utility to setup Chrony as NTP server <br>
 • [chrony_ntp_clientside](https://github.com/uid885/chrony_ntp_clientside/blob/main/chrony_ntp_clientside.sh): Utility to setup NTP server on client side <br>
 • [redhat_reposerver_setup](https://github.com/uid885/redhat_reposerver_setup/blob/main/redhat_reposerver_setup.sh): Utility to setup & configure repository server <br>
+• [redhat_repoclient_setup](https://github.com/uid885/redhat_repoclient_setup/blob/main/redhat_repoclient_setup.sh): Utility to setup repo conf on clientside <br>
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
