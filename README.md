@@ -44,6 +44,7 @@ hobbies:
 • [redhat_reposerver_setup](https://github.com/uid885/redhat_reposerver_setup/blob/main/redhat_reposerver_setup.sh): Utility to setup & configure repository server <br>
 • [redhat_repoclient_setup](https://github.com/uid885/redhat_repoclient_setup/blob/main/redhat_repoclient_setup.sh): Utility to setup repo conf on clientside <br>
 • [rhel9_xrdp](https://github.com/uid885/rhel9_xrdp/blob/main/rhel9_xrdp.sh): Utility setup & install XRDP for RHEL9 <br>
+• [redhat_repo_updater](https://github.com/uid885/redhat_repo_updater/blob/main/redhat_repo_updater.sh): Utility to update repo on reposerver <br>
 
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
