@@ -47,8 +47,7 @@ hobbies:
 • [redhat_repo_updater](https://github.com/uid885/redhat_repo_updater/blob/main/redhat_repo_updater.sh): Utility to update repo on reposerver <br>
 • [tailscale_setup](https://github.com/uid885/tailscale_setup/blob/main/tailscale_setup.sh): Utility to install Tailscale on RHEL9 <br>
 • [rhel9_vnc](https://github.com/uid885/rhel9_vnc/blob/main/rhel9_vnc.sh): Utility to Install & Setup VNC on Local Server <br>
-• [rhel9_javasetup](https://github.com/uid885/rhel9_javasetup/blob/main/rhel9_javasetup.sh): Utility to setup & configure JAVA 8,17 & 21
-
+• [rhel9_javasetup](https://github.com/uid885/rhel9_javasetup/blob/main/rhel9_javasetup.sh): Utility to setup & configure JAVA 8,17 & 21 <br>
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
 • [rhel9_errata](https://github.com/uid885/rhel9_errata/blob/main/rhel9_errata.sh): Utility to Inspect & Mitigate Errata Advisories <br>
@@ -59,6 +58,7 @@ hobbies:
 • [rhel9_usbguard](https://github.com/uid885/rhel9_usbguard/blob/main/rhel9_usbguard.sh): Utility to setup/list/decide USBGuard on RHEL 9 <br>
 • [podman_clamav](https://github.com/uid885/podman_clamav/blob/main/podman_clamav.sh): Utility to Scan system for viruses with CLAMAV from within a container using podman <br>
 • [rhel9_sslcert](https://github.com/uid885/rhel9_sslcert/blob/main/rhel9_sslcert.sh): Utility to setup a self-signed certificate for SSL in RHEL 9 <br>
+• [encrypt_decrypt](https://github.com/uid885/encrypt_decrypt/blob/main/encrypt_decrypt.sh): Utility to Encrypt/Decrypt using GPG <br>
 * * * * *
 ### 💻 List of Misc Tools - Windows 10/11
 • [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key <br>
