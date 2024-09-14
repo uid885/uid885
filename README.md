@@ -48,6 +48,7 @@ hobbies:
 • [tailscale_setup](https://github.com/uid885/tailscale_setup/blob/main/tailscale_setup.sh): Utility to install Tailscale on RHEL9 <br>
 • [rhel9_vnc](https://github.com/uid885/rhel9_vnc/blob/main/rhel9_vnc.sh): Utility to Install & Setup VNC on Local Server <br>
 • [rhel9_javasetup](https://github.com/uid885/rhel9_javasetup/blob/main/rhel9_javasetup.sh): Utility to setup & configure JAVA 8,17 & 21 <br>
+• [pipewire2pulseaudio](https://github.com/uid885/rhel9_pipewire2pulseaudio/blob/main/pipewire2pulseaudio.sh): Utility to Switching from PipeWire to PulseAudio <br>
 ### 💻 List of Security Tools - RedHat/Rocky/CentOS
 • [uniquepass](https://github.com/uid885/uniquepass/blob/main/uniquepass.sh):  Utility to generate a Random passwd using GPG <br>
 • [rhel9_errata](https://github.com/uid885/rhel9_errata/blob/main/rhel9_errata.sh): Utility to Inspect & Mitigate Errata Advisories <br>
