@@ -60,6 +60,7 @@ hobbies:
 • [podman_clamav](https://github.com/uid885/podman_clamav/blob/main/podman_clamav.sh): Utility to Scan system for viruses with CLAMAV from within a container using podman <br>
 • [rhel9_sslcert](https://github.com/uid885/rhel9_sslcert/blob/main/rhel9_sslcert.sh): Utility to setup a self-signed certificate for SSL in RHEL 9 <br>
 • [encrypt_decrypt](https://github.com/uid885/encrypt_decrypt/blob/main/encrypt_decrypt.sh): Utility to Encrypt/Decrypt using GPG <br>
+• [rhelXupdate](https://github.com/uid885/rhelXupdate/blob/main/rhelXupdate.sh): Utility which does an errata & update excl kernel <br>
 * * * * *
 ### 💻 List of Misc Tools - Windows 10/11
 • [GetMyInfo](https://github.com/uid885/GetMyInfo/blob/main/GetMyInfo.bat): Utility to display PC Name, Serial#, IP, Windows & Office Key <br>
