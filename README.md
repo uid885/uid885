@@ -2,20 +2,26 @@
 name: Christo Deale "UID885"
 located_in: Northern Cape, South Africa
 current_job: ICT Support Engineer
-currently_learning: RHCSA 9, Shell Scripting/Bash and Ansible
+currently_learning:
+  [
+  "RHCSA"
+  "Shell Scripting/Bash"
+  "Ansible"
+  ]
 fields_of_interests:
   [
     "Linux Hardening",
     "Information Security",
     "Automation Scripts",
     "Virtualization",
+    "Docker(compose) / Podman"
   ]
 hobbies: 
   [
     "Hack The Box (HTB)", 
     "WiFi Wardriving",
     "OSINT" 
-    "Playing with Tech in HomeLab"
+    "HomeLabbing"
   ]
 ```
 ### 💻 List of Misc Tools - RedHat/Rocky/CentOS
@@ -88,4 +94,3 @@ hobbies:
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/PRKw7JjzLNBm+3oDkWsfzQ.png">
 </a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/uid885.png" alt="Your Image Badge" />
