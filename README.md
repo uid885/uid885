@@ -4,9 +4,9 @@ located_in: Northern Cape, South Africa
 current_job: ICT Support Engineer
 currently_learning:
   [
-  "RHCSA"
-  "Shell Scripting/Bash"
-  "Ansible"
+    "RHCSA"
+    "Shell Scripting/Bash"
+    "Ansible"
   ]
 fields_of_interests:
   [
